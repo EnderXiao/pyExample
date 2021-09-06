@@ -30,8 +30,8 @@ def myRequest(type,session: requests.sessions.session, url, referer = None, acce
 
 if __name__ == '__main__':
     s = requests.session();
-    s.cookies.set('id','402880c97b5d8ad1017b9044b9a12713')
-    s.cookies.set('token','1C062C6EC563BF3582A0473BDF4D3CC4')
+    s.cookies.set('id','402880c97b5d8ad1017bb5e341801fe8')
+    s.cookies.set('token','226BCEE3769EDA70A6AB1156E8A07C3D')
 
     # 请求企业微信session
     res = myRequest('get', s, url='http://bjut.sanyth.com:81/nonlogin/qywx/authentication.htm?appId=402880c97b1aa5f7017b1ad2bd97001b&urlb64=L3dlaXhpbi9zYW55dGgvaG9tZS5odG1s',

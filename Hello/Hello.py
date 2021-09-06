@@ -4,6 +4,7 @@ from bs4.element import CData, NavigableString
 import requests
 import copy
 from bs4 import BeautifulSoup
+from requests.api import head
 
 html_doc_test = """
 <html><head><title>The Dormouse's story</title></head>
@@ -91,3 +92,75 @@ if __name__ == "__main__":
     print(tag.contents)
     print(tag.contents[1].contents[0].contents)
     print(soup_test.contents)
+    print(soup_test.find_all('a'))
+    print(soup_test.contents[0].name)
+    for child in soup_test.body.children:
+        print(child)
+    headTag = soup_test.head
+    for child in headTag.descendants:
+        print(child)
+# <title>The Dormouse's story</title>
+# The Dormouse's story
+    print(len(soup_test.contents)) # 1
+    print(len(list(soup_test.descendants))) # 26
+    print(soup_test.string)
+    print(headTag.title.string)
+# None
+# The Dormouse's story
+    for string in soup_test.strings:
+        print(string)
+# The Dormouse's story
+
+
+
+
+# The Dormouse's story
+
+
+# Once upon a time there were three little sisters; and their names were
+
+# Elsie
+# ,
+
+# Lacie
+#  and
+
+# Tillie
+# ;
+# and they lived at the bottom of a well.
+
+
+# ...
+    print('-------')
+    for string in soup_test.stripped_strings:
+        print(string)
+# The Dormouse's story
+# The Dormouse's story
+# Once upon a time there were three little sisters; and their names were
+# Elsie
+# ,
+# Lacie
+# and
+# Tillie
+# ;
+# and they lived at the bottom of a well.
+# ...
+    print('--------')
+    title_tag = soup_test.head.title
+    print(title_tag)
+    print(title_tag.parent)
+    print(title_tag.string.parent)
+    html_tag = soup_test.html
+    # print(html_tag)
+    print(type(html_tag.parent))
+    print(soup_test.parent)
+# <title>The Dormouse's story</title>
+# <head><title>The Dormouse's story</title></head>
+# <title>The Dormouse's story</title>
+# <class 'bs4.BeautifulSoup'>
+# None
+    print('----------')
+    a_tag = soup_test.a
+    print(a_tag)
+    for parent in a_tag.parents:
+        print(parent.name)
