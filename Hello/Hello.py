@@ -164,3 +164,22 @@ if __name__ == "__main__":
     print(a_tag)
     for parent in a_tag.parents:
         print(parent.name)
+# <a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>
+# p
+# body
+# html
+# [document]
+    print('----------')
+    last_a_tag = soup_test.find("a",id = 'link3')
+    print(last_a_tag)
+    print(last_a_tag.next_sibling)
+    for child in last_a_tag.children:
+        print(child)
+    print(last_a_tag.next_element)
+# <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>
+# ;
+# and they lived at the bottom of a well.
+# Tillie
+# Tillie
+    for element in last_a_tag.next_elements:
+        print(repr(element))

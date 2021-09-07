@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "E:\\Python\\python.exe",
+    "python.pythonPath": "D:\\Python\\python.exe",
     "python.linting.flake8Enabled": true,//配置flake8，一种python规范，用过的都说好
     "python.formatting.provider": "yapf",//配置yapf，python代码格式化工具
     "python.linting.flake8Args": ["--max-line-length=248"],
