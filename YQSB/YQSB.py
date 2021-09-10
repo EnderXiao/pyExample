@@ -79,11 +79,12 @@ if __name__ == '__main__':
         c10 = "否"
         c11 = "否"
         c12 = "北京市,北京市,朝阳区,大望路27号中蓝学生公寓"
+        c14 = "已全程接种"
         location_longitude = 116.48051452636719
         location_latitude = 39.88443374633789
         location_address = "北京市朝阳区南磨房镇南磨房路平乐园小区"
         data = {
-            "data" : '{"xmqkb":{"id":"%s"},"c1":"%s","c2":"%s","c3":"%s","c4":"%s","c5":"%s","c6":"%s","c7":"%s","c8":"%s","c12":"%s","c9":"%s","c10":"%s","c11":"%s","type":"YQSJSB","location_longitude":%s,"location_latitude":%s,"location_address":"%s"}' % (xmid,c1,c2,c3,c4,c5,c6,c7,c8,c12,c9,c10,c11,location_longitude,location_latitude,location_address),
+            "data" : '{"xmqkb":{"id":"%s"},"c1":"%s","c2":"%s","c3":"%s","c4":"%s","c5":"%s","c6":"%s","c7":"%s","c8":"%s","c12":"%s","c9":"%s","c10":"%s","c11":"%s","c14":"%s","type":"YQSJSB","location_longitude":%s,"location_latitude":%s,"location_address":"%s"}' % (xmid,c1,c2,c3,c4,c5,c6,c7,c8,c12,c9,c10,c11,c14,location_longitude,location_latitude,location_address),
             "msgurl" : "syt/zzapply/list.htm?type=YQSJSB&xmid=%s" % (xmid),
             "uploadFileStr" : {},
             "multiSelectData" : {},
