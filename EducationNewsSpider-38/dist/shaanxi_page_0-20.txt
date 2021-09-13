@@ -1,0 +1,1200 @@
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/24/115776.html",
+    "_Announcement__title": "陕西深化新时代教育评价改革专题培训班举办 王建利讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/21/115803.html",
+    "_Announcement__title": "教育部印发通知部署做好秋季学期开学和疫情防控工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/20/115807.html",
+    "_Announcement__title": "怀进鹏任教育部部长"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/20/115730.html",
+    "_Announcement__title": "方光华检查十四运会开幕式演职人员封闭管理工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/18/115697.html",
+    "_Announcement__title": "西安交通大学与黑龙江省签署省校战略合作协议"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/18/115696.html",
+    "_Announcement__title": "咸阳市委书记杨长亚到咸阳市教育局调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/18/115669.html",
+    "_Announcement__title": "宝鸡市市长杨广亭调研教育工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/17/115688.html",
+    "_Announcement__title": "新华网：高校党建和思想政治工作进展成效综述"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/15/115641.html",
+    "_Announcement__title": "建党百年高校示范微党课：云端道心声 思源铭信仰"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/14/115616.html",
+    "_Announcement__title": "陕西省部署统计义务教育阶段“双减”公安等工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/13/115612.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅到渭南调研督导教育工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/13/115604.html",
+    "_Announcement__title": "朱征南为学工部发展处民教处党员干部讲党课"
+}
+{
+    "_Announcement__url": "http://www.xinhuanet.com/fortune/2021-08/12/c_1127756281.htm",
+    "_Announcement__title": "当前经济形势述评:认清大势增信心 凝神聚力开新局"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/12/115580.html",
+    "_Announcement__title": "梁桂出席陕西省煤矿安全研究院揭牌仪式并调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/12/115577.html",
+    "_Announcement__title": "全国教育系统疫情防控工作视频调度会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/03/115981.html",
+    "_Announcement__title": "开学啦 陕西教育系统做好2021年秋季开学工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202109/02/115976.html",
+    "_Announcement__title": "国务院常务会议决定 强化国家助学贷款支持"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/01/115922.html",
+    "_Announcement__title": "张广智赴西藏拉萨阿里高级中学调研慰问"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/31/115918.html",
+    "_Announcement__title": "打造“三个课堂”    推动陕西教育高质量发展"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/zhengcejiedu/202108/30/19498.html",
+    "_Announcement__title": "陕西省教育厅就学校心理健康教育教师队伍建设答记者问"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/zhengcejiedu/202108/29/19494.html",
+    "_Announcement__title": "陕西省教育厅就中小学教师“县管校聘”管理改革答记者问"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202108/28/19495.html",
+    "_Announcement__title": "国务院印发“十四五”就业促进规划"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202108/27/19489.html",
+    "_Announcement__title": "教育部启动“基础教育精品课”遴选"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/27/115864.html",
+    "_Announcement__title": "教育部召开2021年重点工作推进会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/27/115857.html",
+    "_Announcement__title": "陕西高校领导干部暑期读书班举办 方光华出席结业式"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202108/26/19482.html",
+    "_Announcement__title": "教育部部署“公参民”学校规范工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/26/115816.html",
+    "_Announcement__title": "财务处党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/26/115799.html",
+    "_Announcement__title": "2021年度陕西省治理教育乱收费工作视频会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/25/115794.html",
+    "_Announcement__title": "袁宁出席研究生处上半年工作总结会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/25/115784.html",
+    "_Announcement__title": "教育部继续支持以中外合作办学等缓解疫情下出国学习困难"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/13/116170.html",
+    "_Announcement__title": "王建利到西安美术学院调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/12/116168.html",
+    "_Announcement__title": "老师，您辛苦了：陕西师生欢庆第37个教师节"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/11/116156.html",
+    "_Announcement__title": "陕西省2021年教师节教师代表座谈会召开 刘国中赵一德讲话"
+}
+{
+    "_Announcement__url": "https://mp.weixin.qq.com/s/bG-_zzqfRbAx3PPLKj4ztA",
+    "_Announcement__title": "今天，听听这群最可爱的人讲述他们的故事！"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/10/116153.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅领导看望慰问优秀教师"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202109/09/116127.html",
+    "_Announcement__title": "习近平回信勉励全国高校黄大年式教师团队代表"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/09/116114.html",
+    "_Announcement__title": "陕西省委教育工委理论学习中心组开展第11次集体学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/09/116107.html",
+    "_Announcement__title": "省委教育工委教育厅召开十四运会开闭幕式参演学校座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/09/116104.html",
+    "_Announcement__title": "2021年陕西省教育事业统计工作视频会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/08/116100.html",
+    "_Announcement__title": "西安电子科技大学教授郝跃入选2021年全国教书育人楷模"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/videonews/202109/08/116098.html",
+    "_Announcement__title": "全国教书育人楷模郝跃：做好教书育人的一颗螺丝钉"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/08/116073.html",
+    "_Announcement__title": "刘建林出席2021年陕西省中小学教师培训项目启动会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202109/07/19514.html",
+    "_Announcement__title": "教育部办公厅印发中小学生校外培训材料管理办法"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/07/116049.html",
+    "_Announcement__title": "财务处召开工作总结和重点任务部署会 刘宝平出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202109/06/115989.html",
+    "_Announcement__title": "王建利谈学习贯彻习近平总书记“七一”重要讲话精神"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/30/115428.html",
+    "_Announcement__title": "咸阳市市长卫华到咸阳职院检查十四运筹备工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/29/115415.html",
+    "_Announcement__title": "致陕西省初高中学生家长关于新冠疫苗接种的公开信"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/29/115412.html",
+    "_Announcement__title": "高岭慰问参加十四运会开幕式排练的学生演员和管理教师"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/28/115379.html",
+    "_Announcement__title": "徐新荣在杨凌示范区调研民营经济发展和高校统战工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/27/115357.html",
+    "_Announcement__title": "陕西省2021年度教育督导工作推进座谈会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/27/115354.html",
+    "_Announcement__title": "方光华检查高考录取工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/27/115351.html",
+    "_Announcement__title": "宣传部党支部召开专题组织生活会 冀映秋讲授专题党课"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/26/115346.html",
+    "_Announcement__title": "高教处党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202107/26/19373.html",
+    "_Announcement__title": "中办国办发文减轻义务教育阶段学生作业负担校外培训负担"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/26/115340.html",
+    "_Announcement__title": "陕西省“一带一路”国际学生文化艺术季落幕"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/25/115338.html",
+    "_Announcement__title": "第十四届“西部大讲堂・历史学论坛”开幕 袁宁出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/25/115317.html",
+    "_Announcement__title": "陕西省委教育工委理论学习中心组开展第10次集体学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/24/115318.html",
+    "_Announcement__title": "李智远到铜川职业技术学院调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/24/115300.html",
+    "_Announcement__title": "陕西省委教育工委教育厅直属机关“两优一先”表彰会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/gongweiwenjian/202107/23/19356.html",
+    "_Announcement__title": "陕西省委教育工委通报6起违规违纪典型案例"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/12/115575.html",
+    "_Announcement__title": "习近平给“国际青年领袖对话”项目外籍青年代表回信"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/11/115569.html",
+    "_Announcement__title": "国务院教育督导办将对“双减”落实情况建立半月通报制度"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/11/115564.html",
+    "_Announcement__title": "刘建林接受专访 以“双减”撬动基础教育大改革"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/10/115556.html",
+    "_Announcement__title": "陕西省教育系统暑假及秋季开学前疫情防控工作视频会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/06/115523.html",
+    "_Announcement__title": "袁宁为研究生处党员干部讲党课"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/06/115504.html",
+    "_Announcement__title": "王建利到延安市调研督导防溺水工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/06/115502.html",
+    "_Announcement__title": "关荷为对外合作与交流处党支部讲学党史专题党课"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/06/115499.html",
+    "_Announcement__title": "汉中市委书记钟洪江到陕西理工大学调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/06/115498.html",
+    "_Announcement__title": "铜川市市长李智远到西安交通大学推进合作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/jiaoyutingwenjian/202108/04/19418.html",
+    "_Announcement__title": "陕西省教育厅发文规范校外培训机构管理"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/02/115455.html",
+    "_Announcement__title": "教育部印发紧急通知部署做好当前教育系统疫情防控工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202108/03/115446.html",
+    "_Announcement__title": "陕西省在首届全国高校教师教学创新大赛中获佳绩"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202108/03/115454.html",
+    "_Announcement__title": "教育部再次印发紧急通知加强暑期教育系统疫情防控工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202108/03/19415.html",
+    "_Announcement__title": "教育部等九部门印发中西部欠发达地区优秀教师定向培养计划"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/30/115430.html",
+    "_Announcement__title": "省教育厅深入贯彻落实习近平总书记对陕重要指示批示精神"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/23/115306.html",
+    "_Announcement__title": "陕西省基础教育教学指导委员会第一次全体会议在西安召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/23/115290.html",
+    "_Announcement__title": "王海波参加委厅人事处党支部党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/23/115288.html",
+    "_Announcement__title": "陕西省首届中小学心理健康大展演活动暨颁奖典礼举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/22/115286.html",
+    "_Announcement__title": "研究生处党支部开展党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/22/115282.html",
+    "_Announcement__title": "对外合作与交流处党支部开展党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/21/115257.html",
+    "_Announcement__title": "稳定办党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/21/115246.html",
+    "_Announcement__title": "统战部党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/21/115244.html",
+    "_Announcement__title": "体卫艺处党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/21/115240.html",
+    "_Announcement__title": "中共陕西省委十三届九次全会在西安举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/zhengcejiedu/202107/21/19335.html",
+    "_Announcement__title": "中共中央国务院发文优化生育政策促进人口长期均衡发展"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/20/115227.html",
+    "_Announcement__title": "西藏拉萨阿里地区高级中学来陕专题研修班开班"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/20/115224.html",
+    "_Announcement__title": "中央专项彩票公益金教育助学项目座谈会在西安举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/20/115210.html",
+    "_Announcement__title": "学工部（学生处、团工委）开展党史学习教育组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/20/115206.html",
+    "_Announcement__title": "教育督导室党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/20/115204.html",
+    "_Announcement__title": "陕西代表团在第十四届全国学生运动会勇夺26枚奖牌"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/13/116170.html",
+    "_Announcement__title": "王建利到西安美术学院调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/12/116168.html",
+    "_Announcement__title": "老师，您辛苦了：陕西师生欢庆第37个教师节"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/11/116156.html",
+    "_Announcement__title": "陕西省2021年教师节教师代表座谈会召开 刘国中赵一德讲话"
+}
+{
+    "_Announcement__url": "https://mp.weixin.qq.com/s/bG-_zzqfRbAx3PPLKj4ztA",
+    "_Announcement__title": "今天，听听这群最可爱的人讲述他们的故事！"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/10/116153.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅领导看望慰问优秀教师"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202109/09/116127.html",
+    "_Announcement__title": "习近平回信勉励全国高校黄大年式教师团队代表"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/09/116114.html",
+    "_Announcement__title": "陕西省委教育工委理论学习中心组开展第11次集体学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/09/116107.html",
+    "_Announcement__title": "省委教育工委教育厅召开十四运会开闭幕式参演学校座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/09/116104.html",
+    "_Announcement__title": "2021年陕西省教育事业统计工作视频会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/08/116100.html",
+    "_Announcement__title": "西安电子科技大学教授郝跃入选2021年全国教书育人楷模"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/videonews/202109/08/116098.html",
+    "_Announcement__title": "全国教书育人楷模郝跃：做好教书育人的一颗螺丝钉"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/08/116073.html",
+    "_Announcement__title": "刘建林出席2021年陕西省中小学教师培训项目启动会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202109/07/19514.html",
+    "_Announcement__title": "教育部办公厅印发中小学生校外培训材料管理办法"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202109/07/116049.html",
+    "_Announcement__title": "财务处召开工作总结和重点任务部署会 刘宝平出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202109/06/115989.html",
+    "_Announcement__title": "王建利谈学习贯彻习近平总书记“七一”重要讲话精神"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/30/114630.html",
+    "_Announcement__title": "省委教育工委省教育厅举办直属机关党史学习教育培训班"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/29/114627.html",
+    "_Announcement__title": "庆祝中国共产党成立100周年“七一勋章”颁授仪式举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/29/114591.html",
+    "_Announcement__title": "陕西省过程督导华阴合阳义务教育优质均衡发展创建工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/29/114589.html",
+    "_Announcement__title": "陕西高校党外知识分子庆祝中国共产党成立100周年"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/29/114730.html",
+    "_Announcement__title": "汉中市中小学校幼儿园第二批建设项目开工 刘建林讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/27/114580.html",
+    "_Announcement__title": "习近平：用好红色资源 赓续红色血脉"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/26/114570.html",
+    "_Announcement__title": "国务院安委会第十六督导组检查西安中学十四运会筹办工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/26/114565.html",
+    "_Announcement__title": "陕西高校师生持续热议习近平给北京大学留学生们的回信"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/25/114562.html",
+    "_Announcement__title": "赵昶葆介绍陕西省学前教育发展和幼儿健康成长情况"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/24/114550.html",
+    "_Announcement__title": "高岭到2021届高校毕业生报到证办理现场指导工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/zhengcejiedu/202106/24/19205.html",
+    "_Announcement__title": "陕西省招生委员会办公室2021年高考分数线发布会答记者问"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/24/114546.html",
+    "_Announcement__title": "2021年陕西高考成绩及各批次录取最低控制分数线公布"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/23/114538.html",
+    "_Announcement__title": "陕西高校外籍师生热议习近平给北京大学留学生们的回信"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/22/114500.html",
+    "_Announcement__title": "习近平给北京大学的留学生们回信"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/22/114502.html",
+    "_Announcement__title": "陕西高校革命文化传承联盟成立"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/12/114990.html",
+    "_Announcement__title": "陕西高校“两优一先”表彰大会召开 王建利刘建林出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/tongjinianjian/202107/12/19283.html",
+    "_Announcement__title": "2020年陕西省教育事业发展统计公报发布"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/11/114974.html",
+    "_Announcement__title": "第五巡回指导组指导教育工委教育厅第二阶段党史学习教育"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/10/114978.html",
+    "_Announcement__title": "习近平主持召开中央全面深化改革委员会第二十次会议"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202107/10/19284.html",
+    "_Announcement__title": "教育部部署支持探索开展暑期托管服务"
+}
+{
+    "_Announcement__url": "http://sn.people.com.cn/n2/2021/0709/c226647-34813639.html",
+    "_Announcement__title": "“五育并举”促改革 人民网专访陕西省教育厅厅长刘建林"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/09/114942.html",
+    "_Announcement__title": "刘建林到榆林市子洲县调研定点帮扶工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/07/114901.html",
+    "_Announcement__title": "2021年陕西省市（县）教育局长高级研修班开班"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/07/114900.html",
+    "_Announcement__title": "陕西省教育信息化年度发展报告（2020） 发布"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/07/114886.html",
+    "_Announcement__title": "陕西高校统一战线学党史、跟党走主题教育座谈会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/07/114879.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅举办纪律教育专题党课"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/07/114872.html",
+    "_Announcement__title": "方光华到榆林学院调研 观看校史话剧《播火者》"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/06/114856.html",
+    "_Announcement__title": "铜川市委书记樊维斌为铜川职业技术学院师生讲党课"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/06/114851.html",
+    "_Announcement__title": "2021年度陕西省学生军事训练组织工作暨任务对接会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/05/114823.html",
+    "_Announcement__title": "陕西教育系统庆祝中国共产党成立100周年"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/22/114465.html",
+    "_Announcement__title": "陕西省教育系统老干部工作者骨干培训班在西安举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/22/114463.html",
+    "_Announcement__title": "榆林学院与长安银行签订战略合作协议"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/20/114421.html",
+    "_Announcement__title": "陕西省2021届高校毕业生就业工作推进网络视频会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/19/114452.html",
+    "_Announcement__title": "陕西省未成年人保护工作领导小组第一次全体会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/19/114448.html",
+    "_Announcement__title": "刘建林检查2021年陕西省初中学业水平考试组考情况"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/19/114458.html",
+    "_Announcement__title": "习近平参观“不忘初心、牢记使命”中国共产党历史展览"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/18/114323.html",
+    "_Announcement__title": "陕西省教育系统党史学习教育暨重点工作推进会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/17/114313.html",
+    "_Announcement__title": "2021年“中国银行杯”陕西省青少年校园足球夏令营举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/17/114279.html",
+    "_Announcement__title": "陕西省组织开展研究生教育会议精神贯彻落实情况调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/17/114277.html",
+    "_Announcement__title": "2021第三届西北教育装备博览会举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/17/114275.html",
+    "_Announcement__title": "陕西省委教育工委省民宗委组织少数民族大学生赴延安学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/16/114272.html",
+    "_Announcement__title": "陕西省教育厅研究生处党支部开展主题党课活动 袁宁参加"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/zhengcejiedu/202106/16/19176.html",
+    "_Announcement__title": "陕西省教育厅有关负责人解读2021年“地方优师专项”政策"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/16/114248.html",
+    "_Announcement__title": "打造“三个课堂” 推动陕西基础教育高质量发展"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202106/16/19169.html",
+    "_Announcement__title": "陕西省印发2021年普通高等学校招生工作实施办法"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/19/115182.html",
+    "_Announcement__title": "陕西日报：陕西高校让党史学习教育“活”起来"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/19/115176.html",
+    "_Announcement__title": "秦创原・第五届陕西省高校科技成果展举办 胡衡华讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/18/115167.html",
+    "_Announcement__title": "基教二处党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/16/115137.html",
+    "_Announcement__title": "基教一处党支部召开党史学习教育专题组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/16/115133.html",
+    "_Announcement__title": "陕西省在第十四届全国学生运动会上捷报频传 再夺三金"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/16/115131.html",
+    "_Announcement__title": "陕西省师范类高校就业联盟2021年工作年会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/15/115113.html",
+    "_Announcement__title": "陕西省高级人民法院西安交通大学共建研究基地"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/14/115088.html",
+    "_Announcement__title": "孙春兰调研学校体育工作并召开全国体教融合工作座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/14/115105.html",
+    "_Announcement__title": "陕西省教育系统做好九件实事 办好人民满意教育"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/14/115073.html",
+    "_Announcement__title": "刘建林巡察2021年陕西省特岗教师招聘考试工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/14/115070.html",
+    "_Announcement__title": "陕西省委第五巡回指导组指导委厅办公室党支部组织生活会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/14/115067.html",
+    "_Announcement__title": "中共中央国务院印发新时代加强和改进思想政治工作的意见"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/14/115066.html",
+    "_Announcement__title": "西藏自治区阿里地区第五批青年骨干教师来陕研修顺利结业"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/13/115060.html",
+    "_Announcement__title": "第十四届全国学生运动会开幕 陕西省代表团已获两枚金牌"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/13/115034.html",
+    "_Announcement__title": "2021年陕西省教育网络安全和信息化工作视频会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/16/114242.html",
+    "_Announcement__title": "长安大学召开党外知识分子联谊会成立大会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/15/114239.html",
+    "_Announcement__title": "教育工委、教育厅召开“忆党史 话发展”党员代表座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/14/114225.html",
+    "_Announcement__title": "陕西省教育厅家属院养老服务站揭牌仪式举行 罗侃淳出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/14/114326.html",
+    "_Announcement__title": "刘建林在《中国教育报》刊文谈新时代立德树人工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/12/114220.html",
+    "_Announcement__title": "陕西“青年红色筑梦之旅”活动启动仪式在延安宝塔山举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/12/114215.html",
+    "_Announcement__title": "陕西省教育厅与陕师大签署省级义务教育质量监测合作协议"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/12/114210.html",
+    "_Announcement__title": "2021年陕西省教育装备工作会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/10/114194.html",
+    "_Announcement__title": "省委教育工委省教育厅职成教处党支部开展主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/09/114192.html",
+    "_Announcement__title": "2021全球硬科技创新大会在西安举行 赵一德出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/09/114187.html",
+    "_Announcement__title": "陕西省委教育工委理论学习中心组开展第8次集体学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/08/114125.html",
+    "_Announcement__title": "陕西省过程督导王益区义务教育优质均衡发展创建工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/08/114111.html",
+    "_Announcement__title": "方光华视频巡查2021年高考准备工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/07/114109.html",
+    "_Announcement__title": "刘建林到西安中学石油普教中心调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/07/114104.html",
+    "_Announcement__title": "教育督导室党支部开展“学党史跟党走践使命”党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/07/114101.html",
+    "_Announcement__title": "陕西省委教育工委分片区召开高校安全稳定工作座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/05/114819.html",
+    "_Announcement__title": "全国高职院校百名名师讲党史总结大会在延安职院举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/04/114789.html",
+    "_Announcement__title": "西京学院科学技术协会成立 李豫琦出席揭牌仪式"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/02/114767.html",
+    "_Announcement__title": "陕西省委教育工委理论学习中心组开展第9次学习研讨"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/02/114753.html",
+    "_Announcement__title": "张迪任咸阳职业技术学院党委书记"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/02/114746.html",
+    "_Announcement__title": "陕西省教育厅教育信息化处党支部开展联合主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/02/114744.html",
+    "_Announcement__title": "庆祝建党百年红色地方戏曲音乐会在西安上演"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/02/114738.html",
+    "_Announcement__title": "陕西教育系统：以史为鉴坚守初心 勇担使命开创未来"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/01/114727.html",
+    "_Announcement__title": "教育工委教育厅组织收看庆祝中国共产党成立100周年大会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202107/01/114715.html",
+    "_Announcement__title": "庆祝中国共产党成立100周年大会举行 习近平发表重要讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202107/01/114713.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅颁发“光荣在党50年”纪念章"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/30/114691.html",
+    "_Announcement__title": "百年恰是风华正茂――致敬中国共产党成立100周年"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/30/114689.html",
+    "_Announcement__title": "陕西省委教育工委对部分直属单位新任处级干部作任职谈话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/30/114677.html",
+    "_Announcement__title": "陕西高校毕业生西部基层就业风采展示暨出征仪式举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/30/114643.html",
+    "_Announcement__title": "外事处（港澳台办）党支部组织开展联合党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/30/114632.html",
+    "_Announcement__title": "陕西省庆祝建党100周年青少年合唱展演举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/25/113787.html",
+    "_Announcement__title": "陕西省开展优秀教师先进事迹巡回报告活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/25/113786.html",
+    "_Announcement__title": "陕西省中小学“五项管理”落实推进视频会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/25/113756.html",
+    "_Announcement__title": "陕西省政府教育督导办过程督导咸阳市四县“双创”工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/25/113754.html",
+    "_Announcement__title": "省教育厅体卫艺处法规处外事处党支部开展主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/25/113750.html",
+    "_Announcement__title": "研究生处党支部与陕师大研究生院党支部联合开展党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/25/113746.html",
+    "_Announcement__title": "陕西高校档案工作演讲比赛在西安举行 王海波出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/24/113739.html",
+    "_Announcement__title": "陕西省2021年普通高中骨干教师新高考专题培训班开班"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/23/113714.html",
+    "_Announcement__title": "2020-2021年“中国银行杯”陕西省青少年校园足球联赛闭幕"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/22/113717.html",
+    "_Announcement__title": "习近平强调减轻义务教育阶段学生作业负担和校外培训负担"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113712.html",
+    "_Announcement__title": "2021年陕西省普通高校招生考试安全工作视频会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113710.html",
+    "_Announcement__title": "陕西省教育厅在教育部基层就业主题座谈会上作交流发言"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113708.html",
+    "_Announcement__title": "新时代医学教育高质量发展大会在西安医学院召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113704.html",
+    "_Announcement__title": "首届陕西高校就业指导课程教学大赛举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113700.html",
+    "_Announcement__title": "翁铁慧到西安邮电大学调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113691.html",
+    "_Announcement__title": "陕西省委教育工委教育厅推进信访积案化解工作专题会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202106/02/19135.html",
+    "_Announcement__title": "教育部颁布《未成年人学校保护规定》"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/02/113980.html",
+    "_Announcement__title": "方光华在西安市调研基础教育工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/02/113979.html",
+    "_Announcement__title": "第六届陕西省高校法治文化节开幕 庄长兴出席并讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/01/113977.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅领导2021“六一”慰问少年儿童"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/01/113956.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅开展消费帮扶助力乡村振兴"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/01/113954.html",
+    "_Announcement__title": "陕西省教育厅召开2021届高校毕业生就业工作座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/01/113952.html",
+    "_Announcement__title": "习近平给少先队员回信 祝小朋友“六一”国际儿童节快乐"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/28/113885.html",
+    "_Announcement__title": "2021年陕西省教育系统卫生工作培训班举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/28/113884.html",
+    "_Announcement__title": "陕西省教育系统信访工作视频会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/28/113880.html",
+    "_Announcement__title": "陕西省教育厅开展省属民办学校2020年度检查工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/28/113876.html",
+    "_Announcement__title": "陕西省教育系统2021年网络安全攻防演习启动会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/27/113857.html",
+    "_Announcement__title": "国务院常务会议：确定加强农村义务教育薄弱环节的措施"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/27/113826.html",
+    "_Announcement__title": "省委教育工委理论学习中心组开展党史学习教育第3次学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202105/26/19107.html",
+    "_Announcement__title": "教育部办公厅发文部署学习宣传贯彻实施新修订的教育法"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/26/113806.html",
+    "_Announcement__title": "陕西省2021年职业教育活动周启动 李冬玉出席启动仪式"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/06/114090.html",
+    "_Announcement__title": "陕西省“一带一路”国际学生文化艺术季第四场演出举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/04/114081.html",
+    "_Announcement__title": "刘建林检查2021年高考考前准备工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/04/114063.html",
+    "_Announcement__title": "刘建林到西安理工大学调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/jiaoyutingwenjian/202106/04/19150.html",
+    "_Announcement__title": "陕西省发文部署2021年高考期间防暑降温及其他有关工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/04/114057.html",
+    "_Announcement__title": "陕西省教育系统两项专项整治工作推进视频会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/04/114055.html",
+    "_Announcement__title": "宝鸡中北职业学院发展大会举行 李晓东出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/04/114037.html",
+    "_Announcement__title": "李克强：提供更多市场化就业创业机会 完成就业目标任务"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/03/114030.html",
+    "_Announcement__title": "陕西省教育厅召开十四运和残特奥会学生志愿者工作视频会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/03/114029.html",
+    "_Announcement__title": "陕西省教育系统2021年全国“爱眼日”宣教活动启动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/03/114024.html",
+    "_Announcement__title": "省委教育工委稳定办党支部开展党史学习教育主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202106/03/19143.html",
+    "_Announcement__title": "教育部印发学前小学中学等不同学段近视防控指引"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202106/03/114015.html",
+    "_Announcement__title": "方光华调研高校毕业生就业工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/02/114008.html",
+    "_Announcement__title": "陕西省完成2021年国家义务教育质量监测实施工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/02/113994.html",
+    "_Announcement__title": "陕西省高校教师党支部书记“双带头人”专题研修班举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202106/02/113993.html",
+    "_Announcement__title": "第二届全国高校思政课教学展示陕西动员培训会举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/13/113426.html",
+    "_Announcement__title": "第七届“互联网+”大学生创新创业大赛陕西赛区启动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/13/113435.html",
+    "_Announcement__title": "习近平在河南南阳考察调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/13/113414.html",
+    "_Announcement__title": "陕西省高校基金会交流座谈会召开 关荷出席并讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/13/113413.html",
+    "_Announcement__title": "陕西教育系统开展第13个全国防灾减灾日主题系列活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/13/113411.html",
+    "_Announcement__title": "2021丝绸之路教育合作交流会开幕 方光华林怡出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/13/113409.html",
+    "_Announcement__title": "第五届丝绸之路教育合作交流会开幕 林怡方光华出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202105/12/19037.html",
+    "_Announcement__title": "教育部等十五部门联合实施近视防控光明行动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/12/113407.html",
+    "_Announcement__title": "统战部党支部与陕西职院统战党支部开展主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/12/113397.html",
+    "_Announcement__title": "赵刚在延安职业技术学院延安大学调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/12/113394.html",
+    "_Announcement__title": "陕西省在教育部新闻通气会上作近视防控经验交流"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202105/11/19029.html",
+    "_Announcement__title": "教育部印发关于在教育系统开展师德专题教育的通知"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/11/113380.html",
+    "_Announcement__title": "2021年全国普通高校招生考试安全工作电视电话会议召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/11/113338.html",
+    "_Announcement__title": "习近平给《文史哲》编辑部全体编辑人员回信"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/11/113329.html",
+    "_Announcement__title": "省委教育工委理论学习中心组开展党史学习教育第2次学习"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/10/113327.html",
+    "_Announcement__title": "宣传部党支部开展党史学习教育主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/21/113690.html",
+    "_Announcement__title": "陕西省中小学教师信息技术应用能力提升工程研修班开班"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/19/113653.html",
+    "_Announcement__title": "驻省教育厅纪检监察组传达学习省纪委监委会议精神"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/19/113652.html",
+    "_Announcement__title": "陕西省幼儿园与小学科学衔接工作现场推进会在西安市召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/18/113676.html",
+    "_Announcement__title": "孙春兰强调 促进高校毕业生更加充分更高质量就业"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/18/113599.html",
+    "_Announcement__title": "王建利到榆林市调研教育工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/18/113598.html",
+    "_Announcement__title": "赵昶葆巡查2021年初中学业水平考试实验操作考试工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/17/113530.html",
+    "_Announcement__title": "陕西省政府教育督导办对延安市“双创”工作进行过程督导"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/17/113527.html",
+    "_Announcement__title": "陕西省高校困难群体毕业生精准帮扶专场招聘会举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/17/113526.html",
+    "_Announcement__title": "陕西省开展特殊教育工作培训 赵昶葆出席开班式并讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/jiaoyutingwenjian/202105/17/19052.html",
+    "_Announcement__title": "2021年农村义务教育阶段学校教师特设岗位计划工作启动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/16/113537.html",
+    "_Announcement__title": "《求是》发表习近平总书记重要文章"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/15/113479.html",
+    "_Announcement__title": "2020-2021年“中国银行杯”陕西省青少年校园足球联赛开幕"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/15/113471.html",
+    "_Announcement__title": "修订后的《民办教育促进法实施条例》公布"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/14/113468.html",
+    "_Announcement__title": "教育部召开直属高校咨询会 陕西省教育厅作大会交流发言"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/14/113466.html",
+    "_Announcement__title": "陕西高校参加全国第六届大学生艺术展演活动现场展演"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/09/113276.html",
+    "_Announcement__title": "基教一处基教二处党支部开展党史学习教育主题党日活动"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/09/113274.html",
+    "_Announcement__title": "陕西省2021年高考安全工作电视电话会议召开 程福波讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/08/113265.html",
+    "_Announcement__title": "陕西省委召开常委会会议研究高质量发展高等教育等工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/07/113206.html",
+    "_Announcement__title": "陕西省政府教育督导办对宝鸡市“双创”工作进行过程督导"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202105/07/19026.html",
+    "_Announcement__title": "教育部印发中学教育专业师范生教师职业能力标准（试行）"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/07/113204.html",
+    "_Announcement__title": "徐大彤检查校园安保工作"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/06/113196.html",
+    "_Announcement__title": "青春心向党 启航新征程：陕西师生纪念五四运动102周年"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/04/113500.html",
+    "_Announcement__title": "西安交大与榆林市政府签约共建榆林金融研究院"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/03/113167.html",
+    "_Announcement__title": "爱劳动爱生活：陕西师生欢庆2021年“五一”国际劳动节"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/02/113170.html",
+    "_Announcement__title": "陈宝生：办好新时代职业教育 服务技能型社会建设"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/02/113157.html",
+    "_Announcement__title": "习近平主持中央政治局第二十九次集体学习并讲话"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202105/01/113153.html",
+    "_Announcement__title": "中共中央政治局召开会议 习近平主持"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202105/01/113152.html",
+    "_Announcement__title": "陕西省委教育工委省教育厅召开教育系统安全稳定工作会议"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/30/113143.html",
+    "_Announcement__title": "习近平向全国广大劳动群众致以节日的祝贺和诚挚的慰问"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202104/30/18999.html",
+    "_Announcement__title": "全国人民代表大会常务委员会修改中华人民共和国教育法"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202104/30/113079.html",
+    "_Announcement__title": "第六届全国高校荣誉教育峰会在陕西西安举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202104/30/113078.html",
+    "_Announcement__title": "2021年陕西省教育系统老干部工作视频会召开 王海波出席"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/29/113076.html",
+    "_Announcement__title": "中国空间站天和核心舱发射任务成功 习近平致电祝贺"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202104/29/113074.html",
+    "_Announcement__title": "省委巡回指导组到省委教育工委省教育厅指导党史学习教育"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202104/29/113071.html",
+    "_Announcement__title": "陕西省高校创建文明校园工作推进会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/29/113066.html",
+    "_Announcement__title": "十九届中央第七轮巡视将巡视教育部和31所中管高校党组织"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/29/113055.html",
+    "_Announcement__title": "陕西省庆祝“五一”国际劳动节暨表彰大会举行"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/28/113040.html",
+    "_Announcement__title": "李克强：中德应当为开放、互利、共赢合作作出表率"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202104/28/113037.html",
+    "_Announcement__title": "教育部政策法规司司长邓传淮来陕调研"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/28/113002.html",
+    "_Announcement__title": "教育部发布2020年全国教育经费执行情况统计快报"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/news/qitawenjian/202104/28/18994.html",
+    "_Announcement__title": "国务院未成年人保护工作领导小组成立"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/28/112997.html",
+    "_Announcement__title": "全国中小学幼儿园安全工作视频会召开"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/28/112992.html",
+    "_Announcement__title": "赵一德观摩科技成果转化项目路演活动并召开座谈会"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/jyyw/202104/27/112948.html",
+    "_Announcement__title": "陕西省教育督导机构负责人省督学和业务骨干培训班举办"
+}
+{
+    "_Announcement__url": "http://jyt.shaanxi.gov.cn/jynews/mtsj/202104/27/112995.html",
+    "_Announcement__title": "习近平：建设新时代中国特色社会主义壮美广西"
+}
